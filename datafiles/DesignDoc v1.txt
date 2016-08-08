@@ -1,0 +1,76 @@
+Gameplay goals:
+
+Remove KnP Samples before selling!
+
+Need to make the player feel satisfaction by:
+-Improving on ones own personal best;
+-Beating a friends personal best;
+-Solving a puzzle that had you confused for a while;
+-Beating the odds, the longer the better;
+-Becoming more powerful over time;
+-Improving across a learning curve;
+-Improving by finding hidden depth to the mechanics.
+-Learning and executing a pattern with more precision over time;
+-Finding a more efficient way to do something;
+-Discovering something new;
+-Being rewarded.
+-Audio and Visual Feedback
+
+Game Ideas:
+Playfield is randomly generated via an algorithm.
+In endless mode new blocks need to be added in somehow. (Preferably from the sides.
+
+Build a shop whereby you can spend coins to buy better stuff?
+Shop will be a power up that must be collected.
+Coins are dropped randomly by blocks, gives you points and adds to your coin total.
+Powerup Inventory that gets fillled up and is persistent over time.
+Some pwoerups can only be gained by breaking blocks.
+Some powerups can be activated.
+Some powerups are time or event based (score, number of blocks broken, number of coins)
+
+Gameplay Rules:
+
+-Paddle speed must always be slightly faster than maximum ball speed.
+Unless for powerup reasons it can be slower.
+20% or so is a good spot.
+
+Player does not have lives, but paddle has health bar that can be lost or regenerated.
+
+Block types:
+Standard block - Done
+Has chance of generating a powerup.
+
+Tough block 2 Hit - Done
+Has chance of generating a powerup.
+
+Tough block 3 Hit
+Has chance of generating a powerup.
+
+Tough block 4 Hit
+Has chance of generating a powerup.
+
+Mover Block
+First hit starts block moving across play field.
+2nd hit destroys block.
+If block touches paddle, block is destroyed and player takes damage
+
+Mover Block - Tough
+First hit starts block moving across play field.
+3rd hit destroys block.
+If block touches paddle, block is not destroyed and player takes damage
+
+Missle Block
+First hit starts block moving, dropping below orther blocks and moving left and right across play field.
+Block fires missles towards bottom of screen at random intervals.
+3rd hit destroys block.
+
+Missle Block - Heat Seeking
+First hit starts block moving, dropping below orther blocks and moving left and right across play field.
+Block fires missles towards bottom of screen at random intervals that track player.
+3rd hit destroys block.
+
+
+Still to build:
+
+
+
